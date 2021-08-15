@@ -1,4 +1,4 @@
-## Olá! Eu sou a Vitória Santos 
+## Olá! Meu nome é Vitória  
 
 - 🔭 Atualmente trabalho no Resolve do MagaLu
 - 🌱 Estudante de Node.js pelo Luiza CODE 
