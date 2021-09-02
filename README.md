@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Vitória  
 
 - 🔭 Atualmente trabalho no Resolve do MagaLu
-- 🌱 Estudante de Node.js pelo Luiza CODE 
+- 🌱 Estudante de Node.js pelo Luiza CODE
+- 🌱 Cursando Analise e Desenvolvimento de Sistemas pela FATEC 
 
 <div>
   <a href="https://github.com/vitfersant">
